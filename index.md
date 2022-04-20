@@ -1,6 +1,6 @@
-## Welcome to IPTV Diva Media Player Support
+## Welcome to IPTV Divo Media Player Support
 
-**IPTV Diva Media Player** is an elementary app to play custom `M3U` playlists.
+**IPTV Divo Media Player** is an elementary app to play custom `M3U` playlists.
 One can use to play IPTV. Player supports both `live TV` as well as `video-on-demand`.
 
 ### Important
@@ -11,4 +11,4 @@ One can use to play IPTV. Player supports both `live TV` as well as `video-on-de
 
 ### Contact
 
-Having trouble with IPTV Diva Media Player? Contact us at [divo-player@mail.ru](mailto:divo-player@mail.ru) and we’ll help you sort it out.
+Having trouble with IPTV Divo Media Player? Contact us at [divo-player@mail.ru](mailto:divo-player@mail.ru) and we’ll help you sort it out.
